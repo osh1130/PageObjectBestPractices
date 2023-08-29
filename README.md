@@ -14,4 +14,6 @@ The objective of this project was to establish an automated testing framework ba
 
 - **Logging and Screenshot Capabilities**: Enhanced logging mechanisms were integrated to provide clear insights into the status and outcomes of test executions. Moreover, an automated screenshot functionality was introduced to capture the state of the page during the occurrence of issues. These features expedited the identification and resolution of issues, thereby elevating the overall quality and maintainability of tests.
 
+[![framework.png](https://i.postimg.cc/mry6ytvF/framework.png)](https://postimg.cc/d7DBqttq)
+
 By meticulously adhering to these guiding principles and incorporating advanced logging and screenshot functionalities, the ultimate goal of the project was realized—a robust, maintainable, and stable automated testing framework, ensuring the reliability of test cases within dynamic and evolving applications.
